@@ -73,6 +73,7 @@ Reset All: Click the red button to remove all filters and return to the original
 
 Step 7: Download Final Output
 Once you are satisfied with the result, click the Download button. The processed image will be saved as final_edit.png on your device.
+Image samples
 Input image:input image.png
 Output image:hand draw image enhance by AI.png
 
